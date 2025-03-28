@@ -8,7 +8,7 @@
   /></a>
 </p>
 
-<h3 align="left">I’m Asp.Net Core Developer</h3>
+<h3 align="left">I'm a passionate Fullstack .NET Core Developer with experience in building web applications and APIs. I love solving complex problems and exploring new technologies.</h3>
 <img
   align="right"
   alt="Coding"
